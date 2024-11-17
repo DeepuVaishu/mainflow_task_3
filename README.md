@@ -28,7 +28,7 @@ This project performs an exploratory data analysis (EDA) on the **YouTube Trendi
 ## 🚀 Usage
 Run the Jupyter Notebook for detailed analysis:
 ```bash
-jupyter notebook notebooks/EDA_YouTube_Trending.ipynb
+jupyter notebook notebooks/task.ipynb
 ```
 
 ## 📝 Results & Insights
